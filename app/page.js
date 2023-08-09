@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <div>
-      <section className="grid grid-cols-1 md:grid-cols-2 gap-8 place-items-center 2xl:container mx-auto bg-gray-200">
+      <section className="grid grid-cols-1 md:grid-cols-2 gap-8 place-items-center 2xl:container mx-auto bg-custom-grey">
       <div className="px-16" >
       <header className="flex justify-between items-center bg-transparent font-bold py-8">
         <div className="logo text-4xl font-bold">
@@ -29,11 +29,11 @@ export default function Home() {
           <div className="flex items-center gap-4 bg-white rounded-md p-3">
             <input
               type="text"
-              className="px-4 py-2 border rounded-md w-full bg bg-gray-200"
+              className="px-4 py-2 border rounded-md w-full bg bg-custom-grey"
               placeholder="Search job"
             />
             <select
-              className="px-4 py-2 border rounded-md bg-gray-200"
+              className="px-4 py-2 border rounded-md bg-custom-grey"
             >
               <option value="location1">Location 1</option>
               <option value="location2">Location 2</option>

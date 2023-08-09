@@ -14,6 +14,7 @@ module.exports = {
       },
       backgroundColor:{
         'custom-green': '#00CC99',
+        'custom-grey':'#F2F2F2'
       },
       textColor: {
         'custom-green': '#00CC99',
