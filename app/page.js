@@ -12,10 +12,10 @@ export default function Home() {
         </div>
         <nav>
           <ul className="flex gap-10">
-            <li><a href="#" className="text-gray-800 hover:text-custom-green">Home</a></li>
-            <li><a href="#" className="text-gray-800 hover:text-custom-green">Job</a></li>
-            <li><a href="#" className="text-gray-800 hover:text-custom-green">About Us</a></li>
-            <li><a href="#" className="text-gray-800 hover:text-custom-green">Contact</a></li>
+            <li><a href="#" className=" hover:text-custom-green">Home</a></li>
+            <li><a href="#" className=" hover:text-custom-green">Job</a></li>
+            <li><a href="#" className=" hover:text-custom-green">About Us</a></li>
+            <li><a href="#" className=" hover:text-custom-green">Contact</a></li>
           </ul>
         </nav>
         </header>
