@@ -19,6 +19,13 @@ module.exports = {
       textColor: {
         'custom-green': '#00CC99',
       },
+      colors: {
+        'custom-green': '#00CC99',
+        'custom-grey':'#F2F2F2',
+      },
+      screens: {
+        '3xl': '2500px',
+      },
     },
   },
   plugins: [],

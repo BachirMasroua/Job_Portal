@@ -2,9 +2,9 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div>
-      <section className="grid grid-cols-1 md:grid-cols-2 gap-8 place-items-center 2xl:container mx-auto bg-custom-grey">
-      <div className="px-16" >
+    <div className=" bg-gradient-to-r md:from-70% 3xl:from-65% from-custom-grey to-custom-green md:to-70% 3xl:to-65%">
+      <section className="grid grid-cols-2 md:grid-cols-3 place-items-center 2xl:container mx-auto">
+      <div className="px-24 col-span-2">
       <header className="flex justify-between items-center bg-transparent font-bold py-8">
         <div className="logo text-4xl font-bold">
           <span className="text-black">Job</span>
@@ -46,7 +46,8 @@ export default function Home() {
           </div>  
         </div>
       </div>
-      <div className="bg-custom-green h-693 rounded-bl-3xl w-full h-full py-8">
+      <div className='bg-custom-green w-full h-full rounded-bl-3xl px-24'>
+        <div className="py-6">
           <div className="flex gap-10 font-bold justify-center">
             <a href="#" className="text-white p-4 hover:border rounded-md">Sign in</a>
             <button
@@ -54,6 +55,8 @@ export default function Home() {
             >Create account</button>
           </div>
         </div>
+      </div>
+
     </section>
     </div>
   )
