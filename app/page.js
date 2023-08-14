@@ -200,7 +200,7 @@ export default function Home() {
               </SwiperSlide>
               <SwiperSlide>
               <div className="bg-white rounded-2xl p-10 shadow-md w-72 h-60 group hover:bg-custom-green relative m-1">
-                <img src='register.png' className=" group-hover:brightness-0 group-hover:invert"></img>
+                <img src='accounting&Finance.png' className=" group-hover:brightness-0 group-hover:invert"></img>
                 <h3 className="text-2xl font-bold my-5 group-hover:text-white">Accounting and Finance</h3>
                 <p className="text-xs text-custom-text-grey group-hover:text-white absolute left-10 bottom-5">350 Job Vacancy</p>
               </div>
@@ -214,15 +214,15 @@ export default function Home() {
               </SwiperSlide>
               <SwiperSlide>
               <div className="bg-white rounded-2xl p-10 shadow-md w-72 h-60 group hover:bg-custom-green relative m-1">
-                <img src='register.png' className=" group-hover:brightness-0 group-hover:invert"></img>
-                <h3 className="text-2xl font-bold my-5 group-hover:text-white">Apply Job</h3>
+                <img src='productManagment.png' className=" group-hover:brightness-0 group-hover:invert"></img>
+                <h3 className="text-2xl font-bold my-5 group-hover:text-white">Product Management</h3>
                 <p className="text-xs text-custom-text-grey group-hover:text-white absolute left-10 bottom-5">350 Job Vacancy</p>
               </div>
               </SwiperSlide>
               <SwiperSlide>
               <div className="bg-white rounded-2xl p-10 shadow-md w-72 h-60 group hover:bg-custom-green relative m-1">
-                <img src='register.png' className=" group-hover:brightness-0 group-hover:invert"></img>
-                <h3 className="text-2xl font-bold my-5 group-hover:text-white">Apply Job</h3>
+                <img src='customerSupport.png' className=" group-hover:brightness-0 group-hover:invert"></img>
+                <h3 className="text-2xl font-bold my-5 group-hover:text-white">Customer Support</h3>
                 <p className="text-xs text-custom-text-grey group-hover:text-white absolute left-10 bottom-5">350 Job Vacancy</p>
               </div>
               </SwiperSlide>
@@ -267,24 +267,60 @@ export default function Home() {
             className="mySwiper"
           >
             <SwiperSlide>
-            <div className="bg-white rounded-2xl p-10 shadow-md h-[510px] group hover:bg-custom-green relative m-1">
-              <img src='register.png' className=" group-hover:brightness-0 group-hover:invert"></img>
-              <h3 className="text-2xl font-bold my-5 group-hover:text-white">Bank institution</h3>
-              <p className="text-xs text-custom-text-grey group-hover:text-white absolute left-10 bottom-5">350 Job Vacancy</p>
+            <div className="bg-white rounded-2xl p-10 shadow-md h-[510px] relative m-1">
+              <img src='uxUI.png'></img>
+              <h3 className="text-2xl font-bold my-5 ">UI/UX Designer</h3>
+              <p className=' text-custom-text-grey font-bold'>Dimension Studio</p>
+              <p className=' text-custom-text-grey my-7'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
+              <div className='flex gap-2 mb-5'>  
+                <div className="px-4 py-2 border rounded-xl bg-custom-grey text-black font-bold flex gap-2 w-fit">
+                  <img src='location.png' ></img>
+                  <p>San Francisco, CA</p>
+                </div>
+                <div className="px-4 py-2 border rounded-xl bg-custom-grey text-black font-bold flex gap-2 w-fit">
+                  <img src='fullTime.png' ></img>
+                  <p>Full Time</p>
+                </div>
+              </div>
+              <a href='#' className=' text-custom-green hover:text-black text-2xl font-bold'>Apply Now {'>'}</a>
             </div>
             </SwiperSlide>
             <SwiperSlide>
-            <div className="bg-white rounded-2xl p-10 shadow-md h-[510px] group hover:bg-custom-green relative m-1">
-              <img src='register.png' className=" group-hover:brightness-0 group-hover:invert"></img>
-              <h3 className="text-2xl font-bold my-5 group-hover:text-white">Apply Job</h3>
-              <p className="text-xs text-custom-text-grey group-hover:text-white absolute left-10 bottom-5">350 Job Vacancy</p>
+            <div className="bg-white rounded-2xl p-10 shadow-md h-[510px] relative m-1">
+              <img src='fullStack.png'></img>
+              <h3 className="text-2xl font-bold my-5 ">Full Stack Developer</h3>
+              <p className=' text-custom-text-grey font-bold'>Alpander</p>
+              <p className=' text-custom-text-grey my-7'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
+              <div className='flex gap-2 mb-5'>  
+                <div className="px-4 py-2 border rounded-xl bg-custom-grey text-black font-bold flex gap-2 w-fit">
+                  <img src='location.png' ></img>
+                  <p>San Francisco, CA</p>
+                </div>
+                <div className="px-4 py-2 border rounded-xl bg-custom-grey text-black font-bold flex gap-2 w-fit">
+                  <img src='fullTime.png' ></img>
+                  <p>Full Time</p>
+                </div>
+              </div>
+              <a href='#' className=' text-custom-green hover:text-black text-2xl font-bold'>Apply Now {'>'}</a>
             </div>
             </SwiperSlide>
             <SwiperSlide>
-            <div className="bg-white rounded-2xl p-10 shadow-md h-[510px] group hover:bg-custom-green relative m-1">
-              <img src='register.png' className=" group-hover:brightness-0 group-hover:invert"></img>
-              <h3 className="text-2xl font-bold my-5 group-hover:text-white">Apply Job</h3>
-              <p className="text-xs text-custom-text-grey group-hover:text-white absolute left-10 bottom-5">350 Job Vacancy</p>
+            <div className="bg-white rounded-2xl p-10 shadow-md h-[510px] relative m-1">
+              <img src='productDesigner.png'></img>
+              <h3 className="text-2xl font-bold my-5">Product Designer</h3>
+              <p className=' text-custom-text-grey font-bold'>XReact Tech</p>
+              <p className=' text-custom-text-grey my-7'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
+              <div className='flex gap-2 mb-5'>  
+                <div className="px-4 py-2 border rounded-xl bg-custom-grey text-black font-bold flex gap-2 w-fit">
+                  <img src='location.png' ></img>
+                  <p>San Francisco, CA</p>
+                </div>
+                <div className="px-4 py-2 border rounded-xl bg-custom-grey text-black font-bold flex gap-2 w-fit">
+                  <img src='fullTime.png' ></img>
+                  <p>Full Time</p>
+                </div>
+              </div>
+              <a href='#' className=' text-custom-green hover:text-black text-2xl font-bold'>Apply Now {'>'}</a>
             </div>
             </SwiperSlide>
           </Swiper>
@@ -361,12 +397,12 @@ export default function Home() {
             <div>
               <h3 className='text-xl font-bold'>Pages</h3>
               <ul className='text-sm my-2'>
-                <li>Home</li>
-                <li>Booking</li>
-                <li>Facilities</li>
-                <li>About Us</li>
-                <li>Location</li>
-                <li>Contact</li>
+                <li><a href='/' className='hover:text-black'>Home</a></li>
+                <li><a href='#' className='hover:text-black'>Booking</a></li>
+                <li><a href='#' className='hover:text-black'>Facilities</a></li>
+                <li><a href='#' className='hover:text-black'>About Us</a></li>
+                <li><a href='#' className='hover:text-black'>Location</a></li>
+                <li><a href='#' className='hover:text-black'>Contact</a></li>
               </ul>
             </div>
 
@@ -375,10 +411,10 @@ export default function Home() {
           <div>
             <h3 className='text-xl font-bold'>Contact Us</h3>
             <div className='flex justify-between my-2'>
-              <img src='google.png'></img>
-              <img src='facebook.png'></img>
-              <img src='twitter.png'></img>
-              <img src='linkedin.png'></img>
+              <a href='#'><img src='google.png' className='hover:brightness-0'></img></a>
+              <a href='#'><img src='facebook.png' className='hover:brightness-0'></img></a>
+              <a href='#'><img src='twitter.png' className='hover:brightness-0'></img></a>
+              <a href='#'><img src='linkedin.png' className='hover:brightness-0'></img></a>
             </div>
 
 
