@@ -56,13 +56,13 @@ export default function Home() {
                 <div className='bg-white group-hover:bg-custom-green w-11/12 h-1 rounded-md'></div>
               </button>
             </header>
-          <div className="py-5 text-center lg:text-start px-5 lg:px-0 bg-custom-white lg:bg-custom-grey">
+          <div className="md:py-20 py-5 text-center lg:text-start px-5 lg:px-0 bg-custom-white lg:bg-custom-grey">
             <h2 className="text-2xl md:text-3xl lg:text-5xl font-bold md:p-0 pt-5">Search, Find, & Apply</h2>
             <p className='md:py-8 py-5 lg:text-lg md:text-md text-xs mx-10 md:mx-0'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolor aperiam eligendi,
               odio laboriosam harum blanditiis quisquam, quam laudantium expedita, dolorem distinctio?
               Atque, voluptatibus ad neque earum illum sed error.</p>
             
-            <div className="flex justify-between bg-white rounded-2xl lg:p-5 p-3 shadow-md lg:gap-4 gap-2 lg:mb-40 mb-16 lg:text-sm text-[8px]">
+            <div className="flex justify-between bg-white rounded-2xl lg:p-5 p-3 shadow-md lg:gap-4 gap-2 lg:mb-20 mb-16 lg:text-sm text-[8px]">
               <div className='md:px-1 md:py-2 p-1 rounded-md bg-custom-light-grey flex flex-1 gap-2'>
                 <img src="search.svg"/>
                 <input
