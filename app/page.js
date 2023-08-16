@@ -145,7 +145,7 @@ export default function Home() {
 
 
 
-      <div className="lg:px-24 px-5 grid lg:grid-cols-2 grid-cols-1 py-32 lg:gap-20 2xl:container mx-auto">
+      <div className="lg:px-24 px-5 grid lg:grid-cols-2 grid-cols-1 md:py-32 py-16 lg:gap-20 2xl:container mx-auto">
         <div className="bg-custom-dark-grey rounded-2xl h-full p-40"></div>
         <div className='lg:text-start text-center my-auto'>
           <h2 className='text-xl md:text-2xl lg:text-4xl font-bold my-6'>We will help you to become an employee in your dream company</h2>
