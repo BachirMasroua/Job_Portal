@@ -275,7 +275,7 @@ export default function Home() {
                   <div className='md:text-xs text-[8px]'>Full Time</div>
                 </div>
               </div>
-              <a href='#' className=' text-custom-green hover:text-black md:text-2xl text-sm font-bold'>Apply Now {'>'}</a>
+              <a href='#' className='absolute md:bottom-10 md:left-10 bottom-4 left-4 text-custom-green hover:text-black md:text-2xl text-sm font-bold'>Apply Now {'>'}</a>
             </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -294,7 +294,7 @@ export default function Home() {
                   <div className='md:text-xs text-[8px]'>Full Time</div>
                 </div>
               </div>
-              <a href='#' className=' text-custom-green hover:text-black md:text-2xl text-sm font-bold'>Apply Now {'>'}</a>
+              <a href='#' className='absolute md:bottom-10 md:left-10 bottom-4 left-4 text-custom-green hover:text-black md:text-2xl text-sm font-bold'>Apply Now {'>'}</a>
             </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -313,7 +313,7 @@ export default function Home() {
                   <div className='md:text-xs text-[8px]'>Full Time</div>
                 </div>
               </div>
-              <a href='#' className=' text-custom-green hover:text-black md:text-2xl text-sm font-bold'>Apply Now {'>'}</a>
+              <a href='#' className='absolute md:bottom-10 md:left-10 bottom-4 left-4 text-custom-green hover:text-black md:text-2xl text-sm font-bold'>Apply Now {'>'}</a>
             </div>
             </SwiperSlide>
           </Swiper>
