@@ -94,7 +94,7 @@ export default function Home() {
                 href="#" className="px-4 py-2  bg-white rounded-md group hover:text-white hover:bg-custom-green border-white border-2 flex gap-2"
               ><img src='createAccount.svg' className='my-auto group-hover:invert'></img> <span> Create account</span></button>
             </div>
-            <div className=" h-96 w-full lg:hidden"></div>
+            <div className=" h-80 w-full lg:hidden"></div>
             <img src='searchGreenIcon.svg' className="absolute lg:top-36 top-20 left-20 md:w-auto w-16"></img>
             <img src='plotGreenIcon.svg' className="absolute lg:top-60 top-36 right-5 md:w-auto w-16"></img>
             <img src='safeGreenIcon.svg' className="absolute lg:bottom-40 bottom-20 left-16 md:w-auto w-16"></img>
