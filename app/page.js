@@ -58,7 +58,7 @@ export default function Home() {
             </header>
           <div className="py-5 text-center lg:text-start px-5 lg:px-0 bg-custom-white lg:bg-custom-grey">
             <h2 className="text-2xl md:text-3xl lg:text-5xl font-bold md:p-0 pt-5">Search, Find, & Apply</h2>
-            <p className='md:py-8 py-5 lg:text-lg md:text-md text-xs'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolor aperiam eligendi,
+            <p className='md:py-8 py-5 lg:text-lg md:text-md text-xs mx-10 md:mx-0'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolor aperiam eligendi,
               odio laboriosam harum blanditiis quisquam, quam laudantium expedita, dolorem distinctio?
               Atque, voluptatibus ad neque earum illum sed error.</p>
             
