@@ -266,11 +266,11 @@ export default function Home() {
               <p className='md:text:lg text-xs text-custom-text-grey font-bold'>Dimension Studio</p>
               <p className='md:text-sm text-[8px] text-custom-text-grey md:my-7 my-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
               <div className='flex md:gap-2 gap-1 mb-5'>  
-                <div className="md:px-4 md:py-2 p-1 border rounded-xl bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
+                <div className="md:px-4 md:py-2 p-1 border rounded-md bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
                   <img src='location.svg' className='md:w-auto w-2'></img>
                   <div className='md:text-xs text-[8px]'>San Francisco, CA</div>
                 </div>
-                <div className="md:px-4 md:py-2 p-1 border rounded-xl bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
+                <div className="md:px-4 md:py-2 p-1 border rounded-md bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
                   <img src='fullTime.svg' className='md:w-auto w-2'></img>
                   <div className='md:text-xs text-[8px]'>Full Time</div>
                 </div>
@@ -285,11 +285,11 @@ export default function Home() {
               <p className='md:text:lg text-xs text-custom-text-grey font-bold'>Alpander</p>
               <p className='md:text-sm text-[8px] text-custom-text-grey md:my-7 my-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
               <div className='flex md:gap-2 gap-1 mb-5'>  
-                <div className="md:px-4 md:py-2 p-1 border rounded-xl bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
+                <div className="md:px-4 md:py-2 p-1 border rounded-md bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
                   <img src='location.svg' className='md:w-auto w-2'></img>
                   <div className='md:text-xs text-[8px]'>San Francisco, CA</div>
                 </div>
-                <div className="md:px-4 md:py-2 p-1 border rounded-xl bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
+                <div className="md:px-4 md:py-2 p-1 border rounded-md bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
                   <img src='fullTime.svg' className='md:w-auto w-2'></img>
                   <div className='md:text-xs text-[8px]'>Full Time</div>
                 </div>
@@ -304,11 +304,11 @@ export default function Home() {
               <p className='md:text:lg text-xs text-custom-text-grey font-bold'>XReact Tech</p>
               <p className='md:text-sm text-[8px] text-custom-text-grey md:my-7 my-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
               <div className='flex md:gap-2 gap-1 mb-5'>  
-              <div className="md:px-4 md:py-2 p-1 border rounded-xl bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
+              <div className="md:px-4 md:py-2 p-1 border rounded-md bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
                   <img src='location.svg' className='md:w-auto w-2'></img>
                   <div className='md:text-xs text-[8px]'>San Francisco, CA</div>
                 </div>
-                <div className="md:px-4 md:py-2 p-1 border rounded-xl bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
+                <div className="md:px-4 md:py-2 p-1 border rounded-md bg-custom-grey text-black font-bold flex md:gap-2 gap-1 items-center w-fit">
                   <img src='fullTime.svg' className='md:w-auto w-2'></img>
                   <div className='md:text-xs text-[8px]'>Full Time</div>
                 </div>
