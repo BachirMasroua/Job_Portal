@@ -230,7 +230,7 @@ export default function Home() {
       
 
 
-      <div className="lg:py-32 py-24 2xl:container mx-auto">
+      <div className="lg:py-32 py-16 2xl:container mx-auto">
         <h2 className='text-xl md:text-2xl lg:text-4xl font-bold text-center'>Recently Added Jobs</h2>
         <p className="md:text-lg text-xs text-custom-text-grey lg:mx-80 md:mx-20 mx-12 text-center my-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
         
