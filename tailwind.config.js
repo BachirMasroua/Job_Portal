@@ -17,7 +17,8 @@ module.exports = {
         'custom-grey':'#F2F2F2',
         'custom-white': '#FBFBFB',
         'custom-dark-grey': '#C4C4C4',
-        'custom-dark-green': '#003A2C'
+        'custom-dark-green': '#003A2C',
+        'custom-light-grey': '#F9F9F9'
       },
       textColor: {
         'custom-green': '#00CC99',
