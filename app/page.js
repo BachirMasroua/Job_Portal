@@ -63,17 +63,17 @@ export default function Home() {
               Atque, voluptatibus ad neque earum illum sed error.</p>
             
             <div className="flex justify-between bg-white rounded-2xl lg:p-5 p-3 shadow-md lg:gap-4 gap-2 lg:mb-40 mb-16 lg:text-sm text-xs">
-              <div className='px-1 py-2 border rounded-md bg-custom-grey flex flex-1 gap-2'>
+              <div className='px-1 py-2 rounded-md bg-custom-white flex flex-1 gap-2'>
                 <img src="search.svg"/>
                 <input
                     type="text"
-                    className=" placeholder:text-black placeholder:font-bold bg-custom-grey w-full"
+                    className=" placeholder:text-black placeholder:font-bold bg-custom-white w-full"
                     placeholder="Job title or Keyword"
                   />
               </div>
-              <div className="px-1 py-2 border rounded-md bg-custom-grey text-black font-bold flex flex-1 gap-2">
+              <div className="px-1 py-2 rounded-md bg-custom-white text-black font-bold flex flex-1 gap-2">
                 <img src='location.svg' ></img>
-                <select className='w-full bg-custom-grey'>
+                <select className='w-full bg-custom-white'>
                   <option value="location1">Location 1</option>
                   <option value="location2">Location 2</option>
                 </select>
@@ -146,7 +146,7 @@ export default function Home() {
 
 
       <div className="lg:px-24 px-10 grid lg:grid-cols-2 grid-cols-1 py-32 lg:gap-20 2xl:container mx-auto">
-        <div className="bg-custom-dark-grey rounded-2xl max-w-full h-96"></div>
+        <div className="bg-custom-dark-grey rounded-2xl h-full p-40"></div>
         <div className='lg:text-start text-center my-auto'>
           <h2 className='text-3xl lg:text-4xl font-bold my-6'>We will help you to become an employee in your dream company</h2>
           <p className="text-custom-text-grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
@@ -342,7 +342,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="bg-custom-green rounded-2xl max-w-full h-72 lg:h-full lg:mx-5 mx-10"></div>
+          <div className="bg-custom-green rounded-2xl h-full p-36"></div>
           <div className=" lg:hidden">
               <p className=' text-2xl text-center lg:text-start font-bold'>Brown Gracia</p>
               <p className='text-xs text-custom-text-grey text-center lg:text-start'>Full Stack Developer in XReact Tech</p>
