@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <div className="bg-custom-white">
       <div className="bg-gradient-to-r lg:from-70% 3xl:from-65% lg:from-custom-grey lg:to-custom-green lg:to-70% 3xl:to-65% xs:to-custom-grey">
-        <section className="grid grid-cols-3 lg:grid-cols-5 container mx-auto">
+        <section className="grid grid-cols-3 lg:grid-cols-5 2xl:container mx-auto">
           <div className=" lg:px-24 col-span-3">
             <header className="bg-custom-grey px-5 lg:px-0 flex justify-center lg:justify-between items-center font-bold py-8">
               <a href='/'>
@@ -106,7 +106,7 @@ export default function Home() {
 
 
 
-      <div className="flex justify-between lg:pt-40 pt-24 gap-5 lg:px-24 px-5 container mx-auto">
+      <div className="flex justify-between lg:pt-40 pt-24 gap-5 lg:px-24 px-5 2xl:container mx-auto">
         <div className="max-w-3xl">
           <h2 className="text-xl md:text-xl lg:text-4xl font-bold">How it works</h2>
           <p className="md:py-7 py-4 md:text-lg text-xs text-custom-text-grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolor aperiam eligendi, odio laboriosam harum blanditiis quisquam, quam laudantium expedita, dolorem distinctio? Atque, voluptatibus ad neque earum illum sed error.</p>
@@ -117,7 +117,7 @@ export default function Home() {
       </div>
 
 
-      <div className="grid lg:grid-cols-4 xs:grid-cols-2 md:gap-8 gap-3 lg:px-20 px-5 py-8 container mx-auto">
+      <div className="grid lg:grid-cols-4 xs:grid-cols-2 md:gap-8 gap-3 lg:px-20 px-5 py-8 2xl:container mx-auto">
         <div className=" bg-white rounded-xl md:p-8 p-4">
           <img src='register.png' className='md:w-auto w-8'></img>
           <div className="md:text-xl text-sm font-bold md:my-5 my-1">Register</div>
@@ -145,7 +145,7 @@ export default function Home() {
 
 
 
-      <div className="lg:px-24 px-5 grid lg:grid-cols-2 grid-cols-1 md:py-32 py-16 lg:gap-20 container mx-auto">
+      <div className="lg:px-24 px-5 grid lg:grid-cols-2 grid-cols-1 md:py-32 py-16 lg:gap-20 2xl:container mx-auto">
         <div className="bg-custom-dark-grey rounded-xl h-full p-40"></div>
         <div className='lg:text-start text-center my-auto'>
           <h2 className='text-xl md:text-xl lg:text-4xl font-bold my-6'>We will help you to become an employee in your dream company</h2>
@@ -155,7 +155,7 @@ export default function Home() {
       </div>
 
       <div className='bg-custom-green bg-opacity-5'>
-        <div className="lg:py-32 py-5 container mx-auto">
+        <div className="lg:py-32 py-5 2xl:container mx-auto">
           <h2 className='text-xl md:text-xl lg:text-4xl font-bold text-center'>Popular Job Categories</h2>
           <p className="md:text-lg text-xs text-custom-text-grey lg:mx-80 mx-16 text-center my-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
           
@@ -230,7 +230,7 @@ export default function Home() {
       
 
 
-      <div className="lg:py-32 py-16 container mx-auto">
+      <div className="lg:py-32 py-16 2xl:container mx-auto">
         <h2 className='text-xl md:text-xl lg:text-4xl font-bold text-center'>Recently Added Jobs</h2>
         <p className="md:text-lg text-xs text-custom-text-grey lg:mx-80 md:mx-20 mx-12 text-center my-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
         
@@ -326,7 +326,7 @@ export default function Home() {
 
 
 
-      <div className="lg:px-24 px-5 lg:mb-40 mb-20 container mx-auto">
+      <div className="lg:px-24 px-5 lg:mb-40 mb-20 2xl:container mx-auto">
         <h2 className="text-xl md:text-xl lg:text-4xl font-bold text-center lg:text-start">People's Feedback about JobNow!</h2>
       
         <div className="grid lg:grid-cols-2 grid-cols-1 lg:gap-20 gap-5 my-5">
@@ -356,7 +356,7 @@ export default function Home() {
 
 
       <div className="bg-gradient-to-b from-50% from-transparent to-50% to-custom-green text-white lg:px-24 px-5">
-        <div className='bg-custom-dark-green rounded-xl h-full flex flex-col items-center md:py-10 py-5 container mx-auto'>
+        <div className='bg-custom-dark-green rounded-xl h-full flex flex-col items-center md:py-10 py-5 2xl:container mx-auto'>
           <h2 className='text-xl md:text-xl lg:text-4xl font-bold'>Register your CV now!</h2>
           <p className='text-custom-text-grey my-5 mx-5 lg:mx-52 sm:mx-20 text-center text-[10px] sm:text-sm lg:text-md'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur.</p>
           <button className="md:text-xl text-[8px] font-bold border-2 border-white rounded-md px-5 py-2 hover:border-custom-green hover:text-custom-green block mx-auto">Register Now</button>
@@ -364,7 +364,7 @@ export default function Home() {
       </div>
 
       <div className='bg-custom-green'>
-        <div className='lg:px-24 px-5 grid lg:grid-cols-5 grid-cols-2 text-white lg:gap-32 gap-5 py-16 container mx-auto'>
+        <div className='lg:px-24 px-5 grid lg:grid-cols-5 grid-cols-2 text-white lg:gap-32 gap-5 py-16 2xl:container mx-auto'>
           
           <div className='col-span-2 my-auto'>
             <a href='/'>
